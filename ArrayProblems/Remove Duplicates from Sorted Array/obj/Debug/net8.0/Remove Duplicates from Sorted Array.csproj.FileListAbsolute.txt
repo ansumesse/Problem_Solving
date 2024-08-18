@@ -1,0 +1,14 @@
+D:\Edu\BackEnd\LeetCode\C#\ArrayProblems\Remove Duplicates from Sorted Array\bin\Debug\net8.0\Remove Duplicates from Sorted Array.exe
+D:\Edu\BackEnd\LeetCode\C#\ArrayProblems\Remove Duplicates from Sorted Array\bin\Debug\net8.0\Remove Duplicates from Sorted Array.deps.json
+D:\Edu\BackEnd\LeetCode\C#\ArrayProblems\Remove Duplicates from Sorted Array\bin\Debug\net8.0\Remove Duplicates from Sorted Array.runtimeconfig.json
+D:\Edu\BackEnd\LeetCode\C#\ArrayProblems\Remove Duplicates from Sorted Array\bin\Debug\net8.0\Remove Duplicates from Sorted Array.dll
+D:\Edu\BackEnd\LeetCode\C#\ArrayProblems\Remove Duplicates from Sorted Array\bin\Debug\net8.0\Remove Duplicates from Sorted Array.pdb
+D:\Edu\BackEnd\LeetCode\C#\ArrayProblems\Remove Duplicates from Sorted Array\obj\Debug\net8.0\Remove Duplicates from Sorted Array.GeneratedMSBuildEditorConfig.editorconfig
+D:\Edu\BackEnd\LeetCode\C#\ArrayProblems\Remove Duplicates from Sorted Array\obj\Debug\net8.0\Remove Duplicates from Sorted Array.AssemblyInfoInputs.cache
+D:\Edu\BackEnd\LeetCode\C#\ArrayProblems\Remove Duplicates from Sorted Array\obj\Debug\net8.0\Remove Duplicates from Sorted Array.AssemblyInfo.cs
+D:\Edu\BackEnd\LeetCode\C#\ArrayProblems\Remove Duplicates from Sorted Array\obj\Debug\net8.0\Remove Duplicates from Sorted Array.csproj.CoreCompileInputs.cache
+D:\Edu\BackEnd\LeetCode\C#\ArrayProblems\Remove Duplicates from Sorted Array\obj\Debug\net8.0\Remove Duplicates from Sorted Array.dll
+D:\Edu\BackEnd\LeetCode\C#\ArrayProblems\Remove Duplicates from Sorted Array\obj\Debug\net8.0\refint\Remove Duplicates from Sorted Array.dll
+D:\Edu\BackEnd\LeetCode\C#\ArrayProblems\Remove Duplicates from Sorted Array\obj\Debug\net8.0\Remove Duplicates from Sorted Array.pdb
+D:\Edu\BackEnd\LeetCode\C#\ArrayProblems\Remove Duplicates from Sorted Array\obj\Debug\net8.0\Remove Duplicates from Sorted Array.genruntimeconfig.cache
+D:\Edu\BackEnd\LeetCode\C#\ArrayProblems\Remove Duplicates from Sorted Array\obj\Debug\net8.0\ref\Remove Duplicates from Sorted Array.dll
