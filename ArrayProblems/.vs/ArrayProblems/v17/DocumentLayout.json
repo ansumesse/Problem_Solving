@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\Edu\\BackEnd\\LeetCode\\C#\\ArrayProblems\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{90187C23-5C98-4C2F-8D88-9D7286011225}|Rotate Array\\Rotate Array.csproj|d:\\edu\\backend\\leetcode\\c#\\arrayproblems\\rotate array\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90187C23-5C98-4C2F-8D88-9D7286011225}|Rotate Array\\Rotate Array.csproj|solutionrelative:rotate array\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E83EF412-9FBB-42EB-8028-AB8CD8E13F7B}|Remove Duplicates from Sorted Array\\Remove Duplicates from Sorted Array.csproj|d:\\edu\\backend\\leetcode\\c#\\arrayproblems\\remove duplicates from sorted array\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E83EF412-9FBB-42EB-8028-AB8CD8E13F7B}|Remove Duplicates from Sorted Array\\Remove Duplicates from Sorted Array.csproj|solutionrelative:remove duplicates from sorted array\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -20,14 +24,26 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Edu\\BackEnd\\LeetCode\\C#\\ArrayProblems\\Rotate Array\\Program.cs",
+              "RelativeDocumentMoniker": "Rotate Array\\Program.cs",
+              "ToolTip": "D:\\Edu\\BackEnd\\LeetCode\\C#\\ArrayProblems\\Rotate Array\\Program.cs",
+              "RelativeToolTip": "Rotate Array\\Program.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAgwDUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T05:51:13.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
               "DocumentMoniker": "D:\\Edu\\BackEnd\\LeetCode\\C#\\ArrayProblems\\Remove Duplicates from Sorted Array\\Program.cs",
               "RelativeDocumentMoniker": "Remove Duplicates from Sorted Array\\Program.cs",
               "ToolTip": "D:\\Edu\\BackEnd\\LeetCode\\C#\\ArrayProblems\\Remove Duplicates from Sorted Array\\Program.cs",
               "RelativeToolTip": "Remove Duplicates from Sorted Array\\Program.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAADwvxEAAAAbAAAA",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAwwBEAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-18T04:26:26.126Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-18T04:26:26.126Z"
             }
           ]
         }

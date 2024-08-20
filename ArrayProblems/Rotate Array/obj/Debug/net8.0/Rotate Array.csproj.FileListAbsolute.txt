@@ -1,0 +1,15 @@
+D:\Edu\BackEnd\LeetCode\C#\ArrayProblems\Rotate Array\bin\Debug\net8.0\Rotate Array.exe
+D:\Edu\BackEnd\LeetCode\C#\ArrayProblems\Rotate Array\bin\Debug\net8.0\Rotate Array.deps.json
+D:\Edu\BackEnd\LeetCode\C#\ArrayProblems\Rotate Array\bin\Debug\net8.0\Rotate Array.runtimeconfig.json
+D:\Edu\BackEnd\LeetCode\C#\ArrayProblems\Rotate Array\bin\Debug\net8.0\Rotate Array.dll
+D:\Edu\BackEnd\LeetCode\C#\ArrayProblems\Rotate Array\bin\Debug\net8.0\Rotate Array.pdb
+D:\Edu\BackEnd\LeetCode\C#\ArrayProblems\Rotate Array\obj\Debug\net8.0\Rotate Array.GeneratedMSBuildEditorConfig.editorconfig
+D:\Edu\BackEnd\LeetCode\C#\ArrayProblems\Rotate Array\obj\Debug\net8.0\Rotate Array.AssemblyInfoInputs.cache
+D:\Edu\BackEnd\LeetCode\C#\ArrayProblems\Rotate Array\obj\Debug\net8.0\Rotate Array.AssemblyInfo.cs
+D:\Edu\BackEnd\LeetCode\C#\ArrayProblems\Rotate Array\obj\Debug\net8.0\Rotate Array.csproj.CoreCompileInputs.cache
+D:\Edu\BackEnd\LeetCode\C#\ArrayProblems\Rotate Array\obj\Debug\net8.0\Rotate Array.sourcelink.json
+D:\Edu\BackEnd\LeetCode\C#\ArrayProblems\Rotate Array\obj\Debug\net8.0\Rotate Array.dll
+D:\Edu\BackEnd\LeetCode\C#\ArrayProblems\Rotate Array\obj\Debug\net8.0\refint\Rotate Array.dll
+D:\Edu\BackEnd\LeetCode\C#\ArrayProblems\Rotate Array\obj\Debug\net8.0\Rotate Array.pdb
+D:\Edu\BackEnd\LeetCode\C#\ArrayProblems\Rotate Array\obj\Debug\net8.0\Rotate Array.genruntimeconfig.cache
+D:\Edu\BackEnd\LeetCode\C#\ArrayProblems\Rotate Array\obj\Debug\net8.0\ref\Rotate Array.dll
